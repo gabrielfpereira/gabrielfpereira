@@ -1,6 +1,3 @@
-# 💫 About Me:
-👯 I’m looking to collaborate on new projects<br>🌱 I’m currently learning web development<br>💬 Ask me about<br>⚡ Fun fact
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gabrielf_pereira) 
